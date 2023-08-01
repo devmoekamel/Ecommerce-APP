@@ -15,7 +15,7 @@ This is a Flutter application that interacts with the `fakestoreapi.com` API to 
 
 ## Screenshots
 ![App Screenshot](screenshots/Homepage.jpg)   
-![App Screenshot](screenshots/update_product page.jpg)   
+![App Screenshot](screenshots/Update_ProductPage.jpg)   
 
 
 ## Installation
