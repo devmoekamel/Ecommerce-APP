@@ -15,6 +15,7 @@ This is a Flutter application that interacts with the `fakestoreapi.com` API to 
 
 ## Screenshots
 <image src="https://2u.pw/GdKnE1h">
+   
 ## Installation
 
 To run this application on your local machine, make sure you have Flutter installed. Then follow these steps:
