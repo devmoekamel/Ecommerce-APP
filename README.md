@@ -1,4 +1,4 @@
-**Ecommerce APP**
+**#Ecommerce APP**
 
 ## Description
 
@@ -14,9 +14,7 @@ This is a Flutter application that interacts with the `fakestoreapi.com` API to 
 - Clear the cart and start shopping again
 
 ## Screenshots
-
-Insert screenshots of the app here, showcasing its UI and functionality.
-
+<image src="https://2u.pw/GdKnE1h">
 ## Installation
 
 To run this application on your local machine, make sure you have Flutter installed. Then follow these steps:
