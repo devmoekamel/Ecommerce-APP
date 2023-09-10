@@ -6,13 +6,10 @@ This is a Flutter application that interacts with the `fakestoreapi.com` API to 
 
 ## Features
 
-- Browse and search for products
+- Browse  products
 - View product details, including name, price, description, and image
-- Add products to the shopping cart
-- View and manage the shopping cart
-- Place orders (dummy functionality for demonstration)
-- Clear the cart and start shopping again
-
+- UPDATE specific product (dummy functionality for demonstration)
+- Add New product (dummy functionality for demonstration)
 ## Screenshots
 ![App Screenshot](screenshots/Homepage.jpg)   
 ![App Screenshot](screenshots/Update_ProductPage.jpg)   
